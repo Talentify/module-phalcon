@@ -1,6 +1,6 @@
 {
-    "name":"codeception/module-phalcon",
-    "description":"Codeception module for Phalcon framework",
+    "name":"talentify/module-phalcon",
+    "description":"Fork of Codeception module for Phalcon framework",
     "keywords":["codeception", "phalcon"],
     "homepage":"http://codeception.com/",
     "type":"library",
